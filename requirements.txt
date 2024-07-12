@@ -8,4 +8,5 @@ MukeshAPI
 nekos.py
 telegraph
 uuid
+TheApi
 git+https://github.com/Vivekkumar-IN/TheApi@main
