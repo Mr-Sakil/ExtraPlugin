@@ -1,4 +1,4 @@
-from telegram import Update, Bot
+import requests
 import httpx
 
 from YukkiMusic import app
