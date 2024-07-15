@@ -1,5 +1,4 @@
 from pyrogram import filters
-from TheApi import api as aapi
 
 from config import LOG_GROUP_ID
 from YukkiMusic import api, app
