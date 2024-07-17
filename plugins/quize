@@ -1,4 +1,4 @@
-/ev import random
+import random
 import requests
 
 from pyrogram import filters
