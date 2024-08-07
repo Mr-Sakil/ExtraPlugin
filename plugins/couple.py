@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-import pytz
 import os
 import random
 from pyrogram import filters
